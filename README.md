@@ -1,4 +1,3 @@
-Integrating LDPC Codes into a Modbus Data Pipeline: A Feasible Approach
 ![image](https://github.com/user-attachments/assets/e4b85b6a-69e5-4be9-93e4-f78e01861eea)
 ![image](https://github.com/user-attachments/assets/83fc535a-6ced-4047-8fa1-aafa444bbdab)
 
