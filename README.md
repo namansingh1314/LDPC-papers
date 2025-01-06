@@ -32,7 +32,6 @@ While integrating LDPC codes into a Modbus data pipeline is technically feasible
 
 However, for less demanding applications, simpler error correction techniques or robust communication protocols might be sufficient.
 
-![Uploading image.png…]()
 
 
 Hardware Acceleration: Consider using hardware accelerators like FPGAs or specialized processors to offload the computationally intensive parts of LDPC decoding.
